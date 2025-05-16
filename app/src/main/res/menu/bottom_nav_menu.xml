@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_temp"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Temperature" />
+    <item
+        android:id="@+id/nav_distance"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Distance" />
+    <item
+        android:id="@+id/nav_weight"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Weight" />
+    <item
+        android:id="@+id/nav_volume"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Volume" />
+</menu>
